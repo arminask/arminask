@@ -1,6 +1,5 @@
 - 👋 Hi, I’m @arminask
 - 👀 I’m interested in Open source software, porting different kind of OS'es, ROM's to Android phones.
-- 💞️ I’m looking to collaborate on [TWRP porting for A52s 5G](https://github.com/arminask/TWRP-samsung_a52sxq)
 - 📫 How to reach me arminas@ver.lt
 
 <!---
