@@ -1,7 +1,7 @@
 ### Hello there 👋
 
 - :computer: I'm currently working on:
-  - [woa-a52sxq](https://git.ver.lt/woa-a52sxq) - work in progress Windows / Linux on Galaxy A52s 5G
+  - [woa-a52s](https://github.com/woa-a52s) - work in progress Windows / Linux on Samsung Galaxy A52s 5G
   - [armrepo.ver.lt](https://github.com/arminask/windows-arm-apps) - Windows on ARM software collection project
   - General ARM architecture UEFI development
   - Windows drivers
