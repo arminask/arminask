@@ -1,11 +1,4 @@
-### Hello there 👋
-
-- :computer: I'm currently working on:
-  - [woa-a52s](https://github.com/woa-a52s) - work in progress Windows / Linux on Samsung Galaxy A52s 5G
-  - [armrepo.ver.lt](https://github.com/arminask/windows-arm-apps) - Windows on ARM software collection project
-  - General ARM architecture UEFI development
-  - Windows drivers
-  - Interested in Qualcomm product kits and their software development
+### Hello 👋
 
 - :email: How to reach me:
   - [Personal email](mailto:arminas@ver.lt)
